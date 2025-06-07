@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import HomePage from './pages/HomePage';
 import Footer from './components/Footer';
-import FitnessBLog from './pages/FitnessBLog';
+import FitnessBLog from './pages/FitnessBlog';
 import BeautyFashionBlog from './pages/BeautyFashionBlog';
 import CookingBlog from './pages/CookingBlog';
 import LifeStyleBlog from './pages/LifeStyleBlog';

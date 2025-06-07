@@ -34,11 +34,11 @@ function BlogPost( {title, excerpt, image, date, author, category, comments = []
         <div className="flex items-center">
           <span className="text-bold justify-between items-center text-orange-500">By {author}</span>
           <span className="text-bold justify-between items-center text-orange-500"></span>
-          <button 
+          {/* <button 
             className="px-4 py-2 bg-orange-500 text-white rounded hover:bg-orange-600 transition ml-auto"
           >
             Read more
-          </button>
+          </button> */}
           
         </div>
 {/* Comment Section */}
